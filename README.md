@@ -15,5 +15,4 @@ This is a simple command-line game based on the concept of Plants vs Zombies.
 - The game will simulate attacks on zombies, and their health will be updated accordingly.
 - When a zombie's health reaches zero, it "dies" and is removed from the game.
 
-## Author
-[Your Name]
+
